@@ -156,7 +156,7 @@
             android:id="@+id/update_data"
             android:layout_width="0dp"
             android:paddingLeft="10dp"
-            android:text="Update Data"
+            android:text="Update your Data"
             android:layout_weight="1"
             android:layout_height="wrap_content" />
 
