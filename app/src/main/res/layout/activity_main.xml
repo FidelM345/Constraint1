@@ -164,7 +164,7 @@
             android:paddingRight="10dp"
             android:layout_width="0dp"
             android:layout_weight="1"
-            android:text="Delete Data"
+            android:text="Delete  All Data"
             android:id="@+id/delete_data"
             android:layout_height="wrap_content" />
 
